@@ -1,6 +1,6 @@
 [
  {
-  "translatedText": "Вот это то, что мы собираемся создать в этом видео: некий анимированный подход к обдумыванию очень важной математической идеи — преобразования Фурье.",
+  "translatedText": "Это то, что мы собираемся создать в этом видео: своеобразный анимированный подход к пониманию очень важной математической концепции — преобразования Фурье.",
   "input": "This right here is what we're going to build to this video, a certain animated approach to thinking about a super important idea from math, the Fourier transform.",
   "time_range": [
    4.32,
@@ -8,7 +8,7 @@
   ]
  },
  {
-  "translatedText": "Для тех, кто не знаком с тем, что это такое, моя цель номер один — сделать видео введением в эту тему.",
+  "translatedText": "Для тех, кто с этим незнаком, моя цель номер один — через видео обеспечить вам введение в эту тему",
   "input": "For anyone unfamiliar with what that is, my number one goal here is just for the video to be an introduction to that topic.",
   "time_range": [
    13.52,
@@ -16,7 +16,7 @@
   ]
  },
  {
-  "translatedText": "Но даже для тех из вас, кто уже знаком с ним, я все равно думаю, что есть что-то интересное и полезное в том, чтобы увидеть, как на самом деле выглядят все его компоненты.",
+  "translatedText": "Но даже для тех из вас, кто сведущ, я все равно думаю, что есть что-то интересное и обогащающее в том, чтобы увидеть, как поистине представляются все его компоненты.",
   "input": "But even for those of you who are already familiar with it, I still think that there's something fun and enriching about seeing what all of its components actually look like.",
   "time_range": [
    20.38,
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "translatedText": "Центральным примером для начала будет классический пример разложения частот из звука.",
+  "translatedText": "Основным примером для начала будет классический: о разложении звука на частоты.",
   "input": "The central example to start is going to be the classic one, decomposing frequencies from sound.",
   "time_range": [
    29.32,
@@ -32,7 +32,7 @@
   ]
  },
  {
-  "translatedText": "Но после этого я также хочу показать, как эта идея распространяется далеко за пределы звука и частоты во многие, казалось бы, несопоставимые области математики и даже физики.",
+  "translatedText": "Но после этого я также хочу бросить взгляд на то, как эта идея выходит за равмки звука и частоты во многие, казалось бы, несопоставимые области математики и даже физики.",
   "input": "But after that I also want to show a glimpse of how this idea extends well beyond sound and frequency into many seemingly disparate areas of math, and even physics.",
   "time_range": [
    34.78,
@@ -40,7 +40,7 @@
   ]
  },
  {
-  "translatedText": "Действительно, просто безумие, насколько повсеместно распространена эта идея.",
+  "translatedText": "Действительно, сложно представить, как вездесуща эта идея.",
   "input": "Really, it's crazy just how ubiquitous this idea is.",
   "time_range": [
    44.88,
@@ -48,7 +48,7 @@
   ]
  },
  {
-  "translatedText": "Давайте погрузимся.",
+  "translatedText": "Давайте углубимся.",
   "input": "Let's dive in.",
   "time_range": [
    49.12,
@@ -56,7 +56,7 @@
   ]
  },
  {
-  "translatedText": "Вот этот звук — чистая А, 440 ударов в секунду. Это означает, что если бы вы измерили давление воздуха рядом с наушниками или динамиком как функцию времени, оно колебалось бы вверх и вниз вокруг своего обычного равновесия в этой волне. , совершая 440 колебаний в секунду.",
+  "translatedText": "Вот звук — чистая ля, 440 ударов в секунду. Это означает, что измерь вы давление воздуха вплотную к наушникам или динамику как функцию времени, оно пульсировало бы вверх и вниз вокруг своего обычного уравновешенного состояния по этой волне, совершая 440 колебаний в секунду.",
   "input": "This sound right here is a pure A, 440 beats per second, meaning if you were to measure the air pressure right next to your headphones or your speaker as a function of time, it would oscillate up and down around its usual equilibrium in this wave, making 440 oscillations each second.",
   "time_range": [
    50.52,
@@ -64,7 +64,7 @@
   ]
  },
  {
-  "translatedText": "Нота более низкой высоты, такая как D, имеет ту же структуру, только меньше ударов в секунду.",
+  "translatedText": "Нота более низкой высоты, такая как ре, имеет ту же структуру, только меньше ударов в секунду.",
   "input": "A lower pitch note, like a D, has the same structure, just fewer beats per second.",
   "time_range": [
    69.94,
@@ -72,7 +72,7 @@
   ]
  },
  {
-  "translatedText": "И когда оба из них играются одновременно, как вы думаете, каково возникающее давление по сравнению с тем, что происходит?",
+  "translatedText": "И когда обе из они проигрывются совместно, как думаете, каков график возникающего",
   "input": "And when both of them are played at once, what do you think the resulting pressure vs.",
   "time_range": [
    75.68,
@@ -80,7 +80,7 @@
   ]
  },
  {
-  "translatedText": "график времени выглядит?",
+  "translatedText": "давления со временеи",
   "input": "time graph looks like?",
   "time_range": [
    79.82,
@@ -88,7 +88,7 @@
   ]
  },
  {
-  "translatedText": "Что ж, в любой момент времени эта разница давлений будет равна сумме того, что было бы для каждой из этих нот в отдельности, и, давайте посмотрим правде в глаза, об этом думать довольно сложно.",
+  "translatedText": "Что ж, в любой момент времени эта разница давлений будет равна сумме тех, что были бы для каждой из нот в отдельности, и, давайте смотреть правде в глаза, это довольно сложно осознать.",
   "input": "Well, at any point in time, this pressure difference is going to be the sum of what it would be for each of those notes individually, which let's face it is kind of a complicated thing to think about.",
   "time_range": [
    82.06,
@@ -96,7 +96,7 @@
   ]
  },
  {
-  "translatedText": "В некоторых точках пики совпадают друг с другом, что приводит к очень высокому давлению.",
+  "translatedText": "Местами вершины накладываются друг на друга, что приводит к очень высокому давлению.",
   "input": "At some points the peaks match up with each other, resulting in a really high pressure.",
   "time_range": [
    93.98,
@@ -104,7 +104,7 @@
   ]
  },
  {
-  "translatedText": "В других точках они имеют тенденцию нейтрализоваться.",
+  "translatedText": "В других точках они склонны подавляться.",
   "input": "At other points they tend to cancel out.",
   "time_range": [
    98.66,
@@ -112,7 +112,7 @@
   ]
  },
  {
-  "translatedText": "И в целом, вы получаете волнообразное давление против",
+  "translatedText": "И в целом, вы получаете волноподобный график давления",
   "input": "And all in all, what you get is a wave-ish pressure vs.",
   "time_range": [
    101.5,
@@ -120,7 +120,7 @@
   ]
  },
  {
-  "translatedText": "график времени, который не является чистой синусоидой, это нечто более сложное.",
+  "translatedText": "со временем, который не является чистой синусоидой, это нечто более запутанное.",
   "input": "time graph that is not a pure sine wave, it's something more complicated.",
   "time_range": [
    104.96,
@@ -128,7 +128,7 @@
   ]
  },
  {
-  "translatedText": "И по мере того, как вы добавляете другие заметки, волна становится все более и более сложной.",
+  "translatedText": "И, добавляя новые ноты, волна становится всё запутанне и запутанное.",
   "input": "And as you add in other notes, the wave gets more and more complicated.",
   "time_range": [
    108.72,
@@ -136,7 +136,7 @@
   ]
  },
  {
-  "translatedText": "Но сейчас все это представляет собой комбинацию четырех чистых частот, поэтому это кажется излишне сложным, учитывая небольшой объем информации, вложенной в него.",
+  "translatedText": "Но сейчас это лишь комбинация четырех беспримесных частот, потому оно кажется излишне каверзным, учитывая малый объем информации, вложенной в него.",
   "input": "But right now, all it is is a combination of four pure frequencies, so it seems needlessly complicated given the low amount of information put into it.",
   "time_range": [
    113.8,
@@ -144,7 +144,7 @@
   ]
  },
  {
-  "translatedText": "Микрофон, записывающий любой звук, просто улавливает давление воздуха в разные моменты времени, он видит только окончательную сумму.",
+  "translatedText": "Микрофон, записывающий любой звук, просто улавливает давление воздуха в разные моменты времени, он видит только конечную сумму.",
   "input": "A microphone recording any sound just picks up on the air pressure at many different points in time, it only sees the final sum.",
   "time_range": [
    123.0,
@@ -152,7 +152,7 @@
   ]
  },
  {
-  "translatedText": "Итак, наш главный вопрос будет заключаться в том, как можно взять такой сигнал и разложить его на чистые частоты, из которых он состоит.",
+  "translatedText": "Посему наш краеугольный вопрос поставлен так: как взять такой сигнал и разложить его на состовляющие частоты.",
   "input": "So our central question is going to be how you can take a signal like this and decompose it into the pure frequencies that make it up.",
   "time_range": [
    130.64,
@@ -160,7 +160,7 @@
   ]
  },
  {
-  "translatedText": "Довольно интересно, правда?",
+  "translatedText": "Занятно, да?",
   "input": "Pretty interesting, right?",
   "time_range": [
    138.82,
@@ -168,7 +168,7 @@
   ]
  },
  {
-  "translatedText": "Сложение этих сигналов действительно смешивает их все вместе, поэтому разделение их на части похоже на смешивание нескольких цветов краски, которые смешались вместе.",
+  "translatedText": "Сложение этих сигналов слово сплавляет их все вместе, поэтому расчленение вспять похоже на расщепление нескольких цветов краски, которые смешались вместе.",
   "input": "Adding up those signals really mixes them all together, so pulling them back apart feels akin to unmixing multiple paint colors that have all been stirred up together.",
   "time_range": [
    140.3,
@@ -176,7 +176,7 @@
   ]
  },
  {
-  "translatedText": "Общая стратегия будет заключаться в том, чтобы построить для себя математическую машину, которая обрабатывает сигналы с заданной частотой иначе, чем другие сигналы.",
+  "translatedText": "Общая стратегия будет заключаться в том, чтобы построить для себя математическиий аппарат, обрабатывающий сигнал с заданной частотой отлично от других.",
   "input": "The general strategy is going to be to build for ourselves a mathematical machine that treats signals with a given frequency differently from how it treats other signals.",
   "time_range": [
    149.92,
@@ -184,7 +184,7 @@
   ]
  },
  {
-  "translatedText": "Для начала рассмотрим простой сигнал, скажем, со скромной частотой 3 удара в секунду, чтобы мы могли легко его построить.",
+  "translatedText": "Для начала рассмотрим простой сигнал, скажем, со скромной частотой в 3 удара в секунду для простоты построения.",
   "input": "To start, consider simply taking a pure signal, say with a lowly 3 beats per second, so we can plot it easily.",
   "time_range": [
    160.08,
@@ -192,7 +192,7 @@
   ]
  },
  {
-  "translatedText": "И давайте ограничимся рассмотрением конечной части этого графика, в данном случае части между 0 секундами и 4,5 секундами.",
+  "translatedText": "Также ограничимся рассмотрением конечного отрезка этого графика, в данном случае части между нулём и четырьмя с половиной секундами.",
   "input": "And let's limit ourselves to looking at a finite portion of this graph, in this case the portion between 0 seconds and 4.5 seconds.",
   "time_range": [
    167.82,
@@ -200,7 +200,7 @@
   ]
  },
  {
-  "translatedText": "Основная идея — взять этот график и как бы обернуть его вокруг круга.",
+  "translatedText": "Ключевая идея — взять этот график и как бы обернуть его вокруг окружности.",
   "input": "The key idea is to take this graph and sort of wrap it up around a circle.",
   "time_range": [
    175.66,
@@ -208,7 +208,7 @@
   ]
  },
  {
-  "translatedText": "Конкретно, вот что я имею в виду.",
+  "translatedText": "Конкретно, что я имею в виду.",
   "input": "Concretely, here's what I mean by that.",
   "time_range": [
    184.98,
@@ -216,7 +216,7 @@
   ]
  },
  {
-  "translatedText": "Представьте себе небольшой вращающийся вектор, длина которого в каждый момент времени равна высоте нашего графика за этот момент времени.",
+  "translatedText": "Представьте себе небольшой вращающийся вектор, с длиной, равной высоте нашего графика в каждый момент времени.",
   "input": "Imagine a little rotating vector where at each point in time its length is equal to the height of our graph for that time.",
   "time_range": [
    187.02,
@@ -224,7 +224,7 @@
   ]
  },
  {
-  "translatedText": "Таким образом, высокие точки графика соответствуют большему расстоянию от начала координат, а низкие точки оказываются ближе к началу координат.",
+  "translatedText": "Так высокие точки графика оказываются дальше от начала координат, а низкие точки — ближе к началу координат.",
   "input": "So high points of the graph correspond to a greater distance from the origin, and low points end up closer to the origin.",
   "time_range": [
    194.86,
@@ -232,7 +232,7 @@
   ]
  },
  {
-  "translatedText": "И сейчас я рисую его так, что перемещение вперед по времени на 2 секунды соответствует одному вращению по кругу.",
+  "translatedText": "И сейчас я рисую его так, что перемещение вперед во времени на 2 секунды соответствует одному вращению по кругу.",
   "input": "And right now I'm drawing it in such a way that moving forward 2 seconds in time corresponds to a single rotation around the circle.",
   "time_range": [
    202.08,
@@ -240,7 +240,7 @@
   ]
  },
  {
-  "translatedText": "Наш маленький вектор, рисующий этот свернутый график, вращается со скоростью полпериода в секунду.",
+  "translatedText": "Наш маленький вектор, обрисовывающий этот свернутый график, вращается со скоростью полпериода в секунду.",
   "input": "Our little vector drawing this wound up graph is rotating at half a cycle per second.",
   "time_range": [
    209.64,
@@ -248,7 +248,7 @@
   ]
  },
  {
-  "translatedText": "Это важно: здесь задействованы две разные частоты.",
+  "translatedText": "Важно отметить: здесь задействованы две разные частоты.",
   "input": "So this is important, there are two different frequencies at play here.",
   "time_range": [
    215.42,
@@ -256,7 +256,7 @@
   ]
  },
  {
-  "translatedText": "Есть частота нашего сигнала, которая повышается и понижается 3 раза в секунду, и отдельно есть частота, с которой мы оборачиваем график по кругу, что на данный момент составляет половину оборота в секунду.",
+  "translatedText": "Есть частота нашего сигнала, который возвышается и снижается трижды в секунду, и отдельно есть частота оборачивания окружности графиком, что на данный момент есть полоборота в секунду.",
   "input": "There's the frequency of our signal, which goes up and down 3 times per second, and then separately there's the frequency with which we're wrapping the graph around the circle, which at the moment is half of a rotation per second.",
   "time_range": [
    218.72,
@@ -264,7 +264,7 @@
   ]
  },
  {
-  "translatedText": "Но мы можем настроить эту вторую частоту так, как захотим.",
+  "translatedText": "Но мы вольны подобрать вторую как пожелаем",
   "input": "But we can adjust that second frequency however we want.",
   "time_range": [
    231.44,
@@ -272,7 +272,7 @@
   ]
  },
  {
-  "translatedText": "Может быть, мы хотим завершить это быстрее?",
+  "translatedText": "Скажем, пожелаем обёртывать спешнее",
   "input": "Maybe we want to wrap it around faster?",
   "time_range": [
    234.66,
@@ -280,7 +280,7 @@
   ]
  },
  {
-  "translatedText": "Или, может быть, мы пойдем и обернем это медленнее?",
+  "translatedText": "Или, может, возьмём и обёрнём протяжнее",
   "input": "Or maybe we go and wrap it around slower?",
   "time_range": [
    238.68,
@@ -288,7 +288,7 @@
   ]
  },
  {
-  "translatedText": "И этот выбор частоты обмотки определяет, как будет выглядеть график возбуждения.",
+  "translatedText": "И этот выбор частоты наматывания определяет вид закутанного графика.",
   "input": "And that choice of winding frequency determines what the wound up graph looks like.",
   "time_range": [
    243.38,
@@ -296,7 +296,7 @@
   ]
  },
  {
-  "translatedText": "Некоторые из диаграмм, которые получаются в результате этого, могут быть довольно сложными, хотя они и очень красивы, но важно помнить, что все, что здесь происходит, — это обтекание сигнала вокруг круга.",
+  "translatedText": "Некоторые результирующие диаграммки могут быть довольно мудрёными, и хотя они приятны глазу, стоит держать в голове, что все, что здесь происходит, — это окутывание сигнала вокруг окружности.",
   "input": "Some of the diagrams that come out of this can be pretty complicated, although they are very pretty, but it's important to keep in mind that all that's happening here is that we're wrapping the signal around a circle.",
   "time_range": [
    249.16,
@@ -304,7 +304,7 @@
   ]
  },
  {
-  "translatedText": "Кстати, вертикальные линии, которые я рисую сверху, — это всего лишь способ отслеживать расстояние на исходном графике, которое соответствует полному вращению вокруг круга.",
+  "translatedText": "Кстати, вертикальные линии, которые я рисую сверху, — это всего лишь способ отслеживать расстояние на исходном графике, которое соответствует полному вращению вокруг окружности.",
   "input": "The vertical lines that I'm drawing up top, by the way, are just a way to keep track of the distance on the original graph that corresponds to a full rotation around the circle.",
   "time_range": [
    260.84,
@@ -312,7 +312,7 @@
   ]
  },
  {
-  "translatedText": "Таким образом, линии, разделенные интервалом 1,5 секунды, будут означать, что один полный оборот занимает 1,5 секунды.",
+  "translatedText": "То есть, линии, разделенные интервалом в полторы секунды, будут свидетельствовать, что один полный оборот занимает полторы секунды.",
   "input": "So lines spaced out by 1.5 seconds would mean it takes 1.5 seconds to make one full revolution.",
   "time_range": [
    270.9,
@@ -320,7 +320,7 @@
   ]
  },
  {
-  "translatedText": "И в этот момент у нас может возникнуть какое-то смутное ощущение, что что-то особенное произойдет, когда частота обмотки совпадет с частотой нашего сигнала, 3 ударов в секунду.",
+  "translatedText": "И в этот момент у нас может возникнуть некое смутное ощущение, что стоит частоте наматывания с частотой нашего сигнала, три удара в секунду, совпасть, случится что-то внештатное",
   "input": "And at this point we might have some sort of vague sense that something special will happen when the winding frequency matches the frequency of our signal, 3 beats per second.",
   "time_range": [
    277.24,
@@ -336,7 +336,7 @@
   ]
  },
  {
-  "translatedText": "Но как именно мы можем воспользоваться этим в нашей попытке создать машину для разделения частот?",
+  "translatedText": "Но как именно мы можем воспользоваться этим, пытаясь создать аппарат для членения частот?",
   "input": "But how precisely can we take advantage of that in our attempt to build a frequency unmixing machine?",
   "time_range": [
    292.5,
